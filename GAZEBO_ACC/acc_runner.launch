@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+
+<launch>
+    <arg name=""/>
+
+    <node name="talker" pkg="hil_sim_example" type="acc_loader.py" output="screen">
+        <param name="" value="" />
+    </node>
+</launch>
